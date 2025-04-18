@@ -1,23 +1,3 @@
-<!-- markdownlint-disable MD032 MD033-->
-<!-- Write your README.md file. Build something amazing! This README.md template can guide you to build your project documentation, but feel free to modify it as you wish 🥰 -->
-# 🔥 **/**
-
-<div align="center">
-  <!-- Change your logo -->
-  <a href="https://github.com//">
-    <img width="100%" src="https://i.imgur.com/SVvgxJF.png" alt="@/'s logo">
-  </a>
-  <br>
-  <a href="https://github.com///issues">
-    <img src="https://img.shields.io/github/issues//?color=0088ff&style=for-the-badge&logo=github" alt="/'s issues"/>
-  </a>
-  <a href="https://github.com///pulls">
-    <img src="https://img.shields.io/github/issues-pr//?color=0088ff&style=for-the-badge&logo=github"  alt="/'s pull requests"/>
-  </a>
-</div>
-
----
-
 ## 🤔 **About the project**
 
 * <!-- ... [WHY DID YOU CREATED THIS PROJECT?, MOTIVATION, PURPOSE, DESCRIPTION, OBJECTIVES, etc] -->
